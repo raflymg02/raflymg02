@@ -1,14 +1,16 @@
-# Hi there 👋
+# Hi there 
 I'm a recent graduate with a Bachelor's degree in Informatics.
 I have a strong foundation in software engineering, along with hands-on experience in machine learning and data processing.
 I'm passionate about building technology that solves real-world problems and improves lives.
 
-📘 Thesis: Focused on educational technology — specifically in gamification, intelligent tutoring systems, and adaptive difficulty.
+My bachelor's thesis is focused on educational technology, specifically in gamification, intelligent tutoring systems, and adaptive difficulty.
 
-Tech Stack
-- 💻 Personally use Go, C#, and Python,
-- 🌱 Currently diving deeper into JavaScript, especially Node.js, React, and Svelte,
-- 🧠 Always eager to explore new tools, frameworks, and best practices.
+Interests:
+- Personally use Go, C#, and Python,
+- Currently diving deeper into JavaScript, especially Node.js and Svelte,
+- Always eager to explore new tools, frameworks, and best practices.
+
+Feel free to contact me!
 <!--
 **raflymg02/raflymg02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
