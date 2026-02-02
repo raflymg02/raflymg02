@@ -1,5 +1,4 @@
-# Hi there 
-I'm Rafly, a software engineer.
+# Hi! I'm Rafly, a software engineer.
 
 [LinkedIn](https://www.linkedin.com/in/raflymg02/)
 
