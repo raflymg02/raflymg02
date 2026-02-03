@@ -2,11 +2,11 @@
 
 [LinkedIn](https://www.linkedin.com/in/raflymg02/)
 
-I have a strong foundation in software engineering, along with hands-on experience in machine learning and data processing.
-I'm passionate about building technology that solves real-world problems and improves lives.
-My bachelor's thesis is focused on educational technology, specifically in gamification, intelligent tutoring systems, and adaptive difficulty.
+I have a strong foundation in software engineering, along with hands-on experience in machine learning and data processing.\
+I'm passionate about building technology that solves real-world problems and improves lives.\
+I'm interested in technologies that improves the quality of life.
 
-## More about me:
+**More about me:**
 - I prefer backend, mostly by Go, but also work with C# and Python.
 - I use C and C++ as well, but mostly outside of web development.
 - Currently diving deeper into JavaScript, especially Node.js and Svelte.
