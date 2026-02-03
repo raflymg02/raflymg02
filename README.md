@@ -4,7 +4,7 @@
 
 I have a strong foundation in software engineering, along with hands-on experience in machine learning and data processing.\
 I'm passionate about building technology that solves real-world problems and improves lives.\
-I'm interested in technologies that improves the quality of life.
+I'm interested in technologies that improve the quality of life.
 
 **More about me:**
 - I prefer backend, mostly by Go, but also work with C# and Python.
