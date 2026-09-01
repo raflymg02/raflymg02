@@ -1,16 +1,9 @@
 # Hi! I'm Rafly, a software engineer.
 
-[LinkedIn](https://www.linkedin.com/in/raflymg02/)
+[LinkedIn](https://www.linkedin.com/in/raflymg02/) | [Personal Website](https://raflymg02.com/)
 
 I have a strong foundation in software engineering, along with hands-on experience in machine learning and data processing.\
-I'm passionate about building technology that solves real-world problems and improves lives.\
-I'm interested in technologies that improve the quality of life.
-
-**More about me:**
-- I prefer backend, mostly by Go, but also work with C# and Python.
-- I use C and C++ as well, but mostly outside of web development.
-- Currently diving deeper into JavaScript, especially Node.js and Svelte.
-- I have done some development using both Godot and Unity.
+I am interested in Education Technology, Recommender Systems, and Personalisation.
 
 Feel free to contact me!
 <!--
